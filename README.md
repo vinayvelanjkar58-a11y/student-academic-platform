@@ -16,3 +16,6 @@ A Flask-based platform for managing students, faculty, courses, enrollments, and
 - Course enrollment
 - Semester credit limit of 18 credits
 - Grade management and GPA calculation
+\n<- Grade management and GPA CI webhook test -->
+<!-- CI webhook test -->
+<!-- CI webhook test -->
